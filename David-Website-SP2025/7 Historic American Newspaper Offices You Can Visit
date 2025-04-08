@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title> Historic American Newspaper Offices You Can Visit</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=Roboto+Slab:wght@500&family=Rubik:ital,wght@0,400;1,700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="my-styles.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#content">Skip to content</a>
+    <nav>
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a class="active" href="historic-american-newspaper-offices">10 Must-try burgers in St. Louis</a></li>
+		</nav>
+
+    <main id="content">
+      <h1>7 Historic American Newspaper Offices You Can Visit</h1>
+
+      <section class="location-holder">
+				<div class="text-holder">
+					<h2>The Boston Globe Headquarters (Boston, MA)</h2>
+					<address>
+						1 Exchange Place<br>
+						Boston, MA<br>
+						02109<br>
+						<a href="tel:+6179292000">(617) 292-2000</a>
+					</address>
+					<p><a href="https://www.bostonglobe.com/">Visit The Boston Globe's website</a></p>
+				<div/>
+			</section>
+			<section class="location-holder">
+				<div class="text-holder">
+					<h2>The New York Times Building</h2>
+					<address>
+						620 8th Ave.<br>
+						New York, NY<br>
+						10018<br>
+						<a href="tel:+8006984637">(800) 698-4637</a>
+					</address>
+					<p><a href="https://www.nytimes.com/">Visit The New York Times' website</a></p>
+				</div>
+			</section>
+			<section class="location-holder">
+				<div class="text-holder">
+					<h2>The Chicago Tribune Tower</h2>
+					<address>
+						435 N. Michigan Ave<br>
+						Chicago, IL<br>
+						60611<br>
+						<a href="tel:+18008742863">(1-800-874-2863)</a>
+					</address>
+					<p><a href="https://www.chicagotribune.com/">Visit The Chicago Tribune's website</a></p>
+				</div>
+			</section>
+			<section class="location-holder">
+				<div class="text-holder">
+					<h2>The Washington Post Headquarters</h2>
+					<address>
+						1301 K Street NW<br>
+						Washington, D.C.<br>
+						63111<br>
+						<a href="tel:+18004774679">1-800-477-4679</a>
+					</address>
+					<p><a href="https://www.washingtonpost.com/?reload=true&itid=force_refresh&_=1744067212647">Visit The Washington Post's website</a></p>
+				</div>
+			</section>
+			<section class="location-holder">
+				<div class="text-holder">
+					<h2>The Providence Journal Building</h2>
+					<address>
+						75 Fountain St<br>
+						Providence, RI<br>
+						02902<br>
+						<a href="tel:+8886977656">1-888-697-7656</a>
+					</address>
+					<p><a href="https://www.providencejournal.com/">Visit The Providence Journal's website</a></p>
+				</div>
+			</section>
+			<section class="location-holder">
+				<div class="text-holder">
+					<h2>The Atlanta Journal-Constitution Office</h2>
+					<address>
+						223 Perimeter Center Pkwy NE<br>
+						Atlanta, GA<br>
+						30346<br>
+						<a href="tel:+4045224141">404-522-4141</a>
+					</address>
+					<p><a href="https://www.ajc.com/">The Atlanta Journal-Constitution's website</a></p>
+				</div>
+			</section>
+			<section class="location-holder">
+				<div class="text-holder">
+					<h2>The Philadelphia Inquirer Building</h2>
+					<address>
+						100 N. 6th St.<br>
+						Philadelphia, PA<br>
+						19106<br>
+						<a href="tel:+2152222765">(215)-222-2765</a>
+					</address>
+					<p><a href="https://www.carlsdrivein.com/">Visit Carl's Drive-In's website</a></p>
+				</div>
+
+    </main>
+
+<footer>David Crow, 2025</footer>
+  </body>
+</html>
